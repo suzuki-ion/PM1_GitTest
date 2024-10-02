@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	char str[] = "Hello World!!\nthis project is git test.\n";
+	char str[] = "Hello World!!\nthis project is git test.\naaaa";
 
 	printf("%s\n", str);
 
