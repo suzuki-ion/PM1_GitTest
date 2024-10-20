@@ -4,7 +4,7 @@ int main(void)
 {
 	char str[] = "Hello World!!\nthis project is git test.\nbbbb";
 
-	char str2[] = "PullRequest branch changed\n";
+	char str2[] = "Hello New Branch\naaaa";
 
 	printf("%s\n", str);
 
